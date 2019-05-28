@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property_value" label="Property value" language="en" table="var__m_sys_hub_action_output_e95c77f31b613300a6bb2136ec4bcb6c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_value</element>
+            <help/>
+            <hint/>
+            <label>Property value</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_e95c77f31b613300a6bb2136ec4bcb6c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-28 14:21:12</sys_created_on>
+            <sys_id>b95c77f31b613300a6bb2136ec4bcbb6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property value</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_340201_needit_sp">95e33f3f1b213300a6bb2136ec4bcba8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">95e33f3f1b213300a6bb2136ec4bcba8</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_e95c77f31b613300a6bb2136ec4bcb6c_property_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-28 14:21:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
